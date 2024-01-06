@@ -20,7 +20,7 @@ RUN apt-get update && \
 RUN apt-get update && \
     apt-get install -y libphp-phpmailer openssl
 # Install PHP extensions
-RUN docker-php-ext-install mysqli pdo pdo_mysql curl gd zip bz2 gettext
+RUN docker-php-ext-install mysqli pdo pdo_mysql curl gd zip bz2 gettext opcache
 
 # Aktifkan ekstensi openssl
 RUN docker-php-ext-enable openssl
