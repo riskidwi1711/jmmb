@@ -348,7 +348,7 @@ class PKPRequest {
 	 */
 	function getProtocol() {
 		if (!isset($this->_protocol)) {
-			$this->_protocol = (!isset($_SERVER['HTTPS']) || strtolower_codesafe($_SERVER['HTTPS']) != 'on') ? 'http' : 'https';
+			$this->_protocol = (!isset($_SERVER['HTTPS']) || strtolower_codesafe($_SERVER['HTTPS']) != 'on') ? 'https' : 'https';
 			HookRegistry::call('Request::getProtocol', array(&$this->_protocol));
 		}
 		return $this->_protocol;
