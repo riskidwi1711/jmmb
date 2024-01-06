@@ -16,8 +16,14 @@ RUN apt-get update && \
         curl \
         gettext
 
+# Install pustaka email dan openssl
+RUN apt-get update && \
+    apt-get install -y libphp-phpmailer openssl
 # Install PHP extensions
 RUN docker-php-ext-install mysqli pdo pdo_mysql curl gd zip bz2 gettext
+
+# Aktifkan ekstensi openssl
+RUN docker-php-ext-enable openssl
 
 # Install sendmail
 RUN apt-get update && \
