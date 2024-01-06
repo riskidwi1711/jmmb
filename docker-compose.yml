@@ -1,0 +1,32 @@
+version: '3'
+services:
+  ojs:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    depends_on:
+      - db
+    environment:
+      - MYSQL_HOST=db
+      - MYSQL_DATABASE={your_database_name}
+      - MYSQL_USER={your_database_user}
+      - MYSQL_PASSWORD={your_database_password}
+    volumes:
+      - ./config.inc.php:/var/www/html/ojs/config.inc.php
+    networks:
+      - ojs-network
+
+  db:
+    image: mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD={your_database_root_password}
+      - MYSQL_DATABASE={your_database_name}
+      - MYSQL_USER={your_database_user}
+      - MYSQL_PASSWORD={your_database_password}
+    networks:
+      - ojs-network
+
+networks:
+  ojs-network:

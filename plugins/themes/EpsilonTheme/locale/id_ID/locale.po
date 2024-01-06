@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-28 09:51+0000\n"
+"Last-Translator: Hasan Syaiful Rizal <hsr@yudharta.ac.id>\n"
+"Language-Team: Indonesian <http://translate.pkp.sfu.ca/projects/ojs/"
+"themes-default/id/>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+msgid "plugins.themes.EpsilonTheme.name"
+msgstr "Tema Epsilon v.1.0 oleh HSR"
+
+msgid "plugins.themes.EpsilonTheme.description"
+msgstr "Tema jurnal untuk tampilan antar muka pengguna publik berbasis framework Boostrap 5 yang dikembangkan oleh Hasan Syaiful Rizal aka. HSR. Untuk informasi lebih lanjut, silakan kontak ke hsr@yudharta.ac.id."
+
+msgid "plugins.themes.EpsilonTheme.additionalContent.display.label" 
+msgstr "Konten Tambahan Beranda"
+
+msgid "plugins.themes.EpsilonTheme.additionalContent.display.description" 
+msgstr "Anda dapat memanfaatkan Additional Content untuk menampilkan informasi tambahan tentang pengindeks yang digunakan oleh jurnal ini."
+
+msgid "plugins.themes.EpsilonTheme.preloaderLoading.label"
+msgstr "Preloader Spinner"
+
+msgid "plugins.themes.EpsilonTheme.popularArticlesIndex.display.option"
+msgstr "Artikel Popular di Beranda"
+
+msgid "plugins.themes.EpsilonTheme.most-viewed"
+msgstr "Artikel Populer"
+
+msgid "plugins.themes.EpsilonTheme.indexJournalLayout.label"
+msgstr "Tata Letak Beranda"
+
+msgid "plugins.themes.EpsilonTheme.tabStyle.label"
+msgstr "Gunakan model tab"
+
+msgid "plugins.themes.EpsilonTheme.issueArchiveLayout.label"
+msgstr "Tata Letak Arsip Issue"
+
+msgid "plugins.themes.EpsilonTheme.detailArticleLayout.label"
+msgstr "Tata Letak Detail Artikel"
+
+msgid "plugins.themes.EpsilonTheme.sidebarSearch.label"
+msgstr "Pencarian Bilah Sisi"
+
+msgid "plugins.themes.EpsilonTheme.label.show"
+msgstr "Tampilkan"
+
+msgid "plugins.themes.EpsilonTheme.journalSummaryHomepage.display.option"
+msgstr "Ringkasan Tentang Jurnal"
+
+msgid "plugins.themes.EpsilonTheme.dimensionBadgeDisplayArticleSummary.option"
+msgstr "Lencana Dimensions Ringkasan Artikel"
+
+msgid "plugins.themes.EpsilonTheme.dimensionBadgeDisplayDetailArticle.option"
+msgstr "Lencana Dimensions pada Detail Artikel"
+
+msgid "plugins.themes.EpsilonTheme.bottomNav.display.option"
+msgstr "Navigasi Bawah"
+
+msgid "plugins.themes.EpsilonTheme.copyrightLink.option"
+msgstr "Link Copyright"
+
+msgid "plugins.themes.EpsilonTheme.backTopButton.option"
+msgstr "Tombol Kembali ke Atas"
+
+msgid "plugins.themes.EpsilonTheme.backTopButton.label.true"
+msgstr "Tampilkan tombol Kembali ke Atas"
+
+msgid "plugins.themes.EpsilonTheme.layoutStyle.label"
+msgstr "Gaya Tata Letak"
+
+msgid "plugins.themes.EpsilonTheme.layoutStyle.true"
+msgstr "Gunakan gaya tata letak Kotak (Boxy Style)"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.label"
+msgstr "Pola Latar Belakang"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.description"
+msgstr "Pengaturan ini hanya berdampak pada mode Kotak (Boxy Style)"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg0"
+msgstr "Polos"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg1"
+msgstr "Pola 1"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg2"
+msgstr "Pola 2"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg3"
+msgstr "Pola 3"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg4"
+msgstr "Pola 4"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg5"
+msgstr "Pola 5"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg6"
+msgstr "Pola 6"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg7"
+msgstr "Pola 7"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg8"
+msgstr "Pola 8"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg9"
+msgstr "Pola 9"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg10"
+msgstr "Pola 10"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg11"
+msgstr "Pola 11"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg12"
+msgstr "Pola 12"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg13"
+msgstr "Pola 13"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg14"
+msgstr "Pola 14"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg15"
+msgstr "Pola 15"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg16"
+msgstr "Pola 16"
+
+msgid "plugins.themes.EpsilonTheme.options.displayColor.label"
+msgstr "Warna Aksen Utama"
+
+msgid "plugins.themes.EpsilonTheme.option.color.label"
+msgstr "Warna Aksen Utama"
+
+msgid "plugins.themes.EpsilonTheme.option.color.description"
+msgstr "Pilih warna aksen utama untuk website Anda."
+
+msgid "plugins.themes.EpsilonTheme.accessible_menu.label"
+msgstr "Lompat ke isi halaman"
+
+msgid "plugins.themes.EpsilonTheme.accessible_menu.main_navigation"
+msgstr "Navigasi Utama"
+
+msgid "plugins.themes.EpsilonTheme.accessible_menu.main_content"
+msgstr "Isi Utama"
+
+msgid "plugins.themes.EpsilonTheme.accessible_menu.sidebar"
+msgstr "Bilah Samping"
+
+msgid "plugins.themes.EpsilonTheme.article.sidebar"
+msgstr "Bilah Samping Artikel"
+
+msgid "plugins.themes.EpsilonTheme.article.main"
+msgstr "Isi Artikel Utama"
+
+msgid "plugins.themes.EpsilonTheme.ojs.label"
+msgstr "Open Journal Systems"
+
+msgid "plugins.themes.EpsilonTheme.article.details"
+msgstr "Rincian Artikel"
+
+msgid "plugins.themes.EpsilonTheme.reset.password.txt"
+msgstr "Klik di sini untuk Reset Password"
+
+msgid "plugins.themes.EpsilonTheme.reg.new-user.label"
+msgstr "Belum punya akun?"
+
+msgid "plugins.themes.EpsilonTheme.reg.new-user.txt"
+msgstr "Klik di sini untuk Daftar"
+
+msgid "plugins.themes.EpsilonTheme.view"
+msgstr "Abstrak dibaca"
+
+msgid "plugins.themes.EpsilonTheme.download"
+msgstr "Artikel diunduh"
+
+msgid "plugins.themes.EpsilonTheme.page"
+msgstr "Halaman"
+
+msgid "plugins.themes.EpsilonTheme.index.by"
+msgstr "Index oleh:"
+
+msgid "plugins.themes.EpsilonTheme.backToTop"
+msgstr "Ke atas"
+
+msgid "plugins.themes.EpsilonTheme.readmore"
+msgstr "Selengkapnya"
+
+msgid "plugins.themes.EpsilonTheme.edition"
+msgstr "Edisi"
+
+msgid "plugins.themes.EpsilonTheme.issue"
+msgstr "Issue"
+
+msgid "plugins.themes.EpsilonTheme.published"
+msgstr "Diterbitkan"
+
+msgid "plugins.themes.EpsilonTheme.title.n.author"
+msgstr "Judul dan Penulis"
+
+msgid "plugins.themes.EpsilonTheme.publisher"
+msgstr "Diterbitkan oleh"
+
+msgid "plugins.themes.EpsilonTheme.onlineISSN"
+msgstr "ISSN Online"
+
+msgid "plugins.themes.EpsilonTheme.printISSN"
+msgstr "ISSN Print"
+
+msgid "plugins.themes.EpsilonTheme.article-title"
+msgstr "Judul dan Penulis"
+
+msgid "plugins.themes.EpsilonTheme.home"
+msgstr "Beranda"
+
+msgid "plugins.themes.EpsilonTheme.browse"
+msgstr "Cari"
+
+msgid "plugins.themes.EpsilonTheme.category"
+msgstr "Kategori"
+
+msgid "plugins.themes.EpsilonTheme.submission"
+msgstr "Penyerahan"
+
+msgid "plugins.themes.EpsilonTheme.archive"
+msgstr "Arsip"
+
+msgid "plugins.themes.EpsilonTheme.table-view"
+msgstr "Tampilan tabel"
+
+msgid "plugins.themes.EpsilonTheme.grid-view"
+msgstr "Tampilan kotak"
+
+msgid "plugins.themes.EpsilonTheme.registered"
+msgstr "Sudah Registrasi?"
+
+msgid "plugins.themes.EpsilonTheme.registered-message"
+msgstr "Masuk dan lanjutkan pengalaman web Anda menggunakan akun terdaftar"

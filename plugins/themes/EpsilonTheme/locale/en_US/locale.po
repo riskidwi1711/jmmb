@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Hasan Syaiful Rizal <hsr@yudharta.ac.id>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-09-30T06:56:50-07:00\n"
+"PO-Revision-Date: 2019-09-30T06:56:50-07:00\n"
+"Language: \n"
+
+msgid "plugins.themes.EpsilonTheme.name"
+msgstr "Epsilon Theme v.1.1 by HSR"
+
+msgid "plugins.themes.EpsilonTheme.description"
+msgstr "Journal theme for the reader frontend based on Bootstrap 5 framework developed by Hasan Syaiful Rizal aka. HSR. For more information please contact hsr@yudharta.ac.id"
+
+msgid "plugins.themes.EpsilonTheme.additionalContent.display.label"
+msgstr "Additional Home Content"
+
+msgid "plugins.themes.EpsilonTheme.additionalContent.display.description"
+msgstr "You can use Additional Content to display additional information about the indexers used by this journal."
+
+msgid "plugins.themes.EpsilonTheme.indexJournalLayout.label"
+msgstr "Homepage Layout"
+
+msgid "plugins.themes.EpsilonTheme.preloaderLoading.label"
+msgstr "Preloader Spinner"
+
+msgid "plugins.themes.EpsilonTheme.popularArticlesIndex.display.option"
+msgstr "Popular Articles on Homepage"
+
+msgid "plugins.themes.EpsilonTheme.most-viewed"
+msgstr "Popular Article"
+
+msgid "plugins.themes.EpsilonTheme.tabStyle.label"
+msgstr "Use tab style"
+
+msgid "plugins.themes.EpsilonTheme.issueArchiveLayout.label"
+msgstr "Issue Archive Layout"
+
+msgid "plugins.themes.EpsilonTheme.detailArticleLayout.label"
+msgstr "Article Details Layout"
+
+msgid "plugins.themes.EpsilonTheme.journalSummaryHomepage.display.option"
+msgstr "About Journal Summary"
+
+msgid "plugins.themes.EpsilonTheme.label.show"
+msgstr "Show"
+
+msgid "plugins.themes.EpsilonTheme.sidebarSearch.label"
+msgstr "Sidebar Search"
+
+msgid "plugins.themes.EpsilonTheme.journalSummaryHomepage.display.option"
+msgstr "About Journal Summary"
+
+msgid "plugins.themes.EpsilonTheme.dimensionBadgeDisplayArticleSummary.option"
+msgstr "Dimensions Badge on Article Summary"
+
+msgid "plugins.themes.EpsilonTheme.dimensionBadgeDisplayDetailArticle.option"
+msgstr "Dimensions Badge on Detail Article"
+	
+msgid "plugins.themes.EpsilonTheme.bottomNav.display.option"
+msgstr "Bottom Navigation"
+
+msgid "plugins.themes.EpsilonTheme.copyrightLink.option"
+msgstr "Copyright Link"
+
+msgid "plugins.themes.EpsilonTheme.backTopButton.option"
+msgstr "Back to Top Button"
+
+msgid "plugins.themes.EpsilonTheme.layoutStyle.label"
+msgstr "Layout Style"
+
+msgid "plugins.themes.EpsilonTheme.layoutStyle.true"
+msgstr "Use Boxy Style"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.label"
+msgstr "Background Pattern"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.description"
+msgstr "This option only affects the Boxy Style"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg0"
+msgstr "No pattern"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg1"
+msgstr "Pattern 1"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg2"
+msgstr "Pattern 2"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg3"
+msgstr "Pattern 3"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg4"
+msgstr "Pattern 4"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg5"
+msgstr "Pattern 5"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg6"
+msgstr "Pattern 6"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg7"
+msgstr "Pattern 7"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg8"
+msgstr "Pattern 8"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg9"
+msgstr "Pattern 9"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg10"
+msgstr "Pattern 10"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg11"
+msgstr "Pattern 11"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg12"
+msgstr "Pattern 12"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg13"
+msgstr "Pattern 13"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg14"
+msgstr "Pattern 14"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg15"
+msgstr "Pattern 15"
+
+msgid "plugins.themes.EpsilonTheme.options.bgPattern.bg16"
+msgstr "Pattern 16"
+
+msgid "plugins.themes.EpsilonTheme.options.displayColor.label"
+msgstr "Color Accent"
+
+msgid "plugins.themes.EpsilonTheme.option.color.label"
+msgstr "Color Accent"
+
+msgid "plugins.themes.EpsilonTheme.option.color.description"
+msgstr "Select a color accent for your website."
+	
+msgid "plugins.themes.EpsilonTheme.accessible_menu.label"
+msgstr "Quick jump to page content"
+
+msgid "plugins.themes.EpsilonTheme.accessible_menu.main_navigation"
+msgstr "Main Navigation"
+
+msgid "plugins.themes.EpsilonTheme.accessible_menu.main_content"
+msgstr "Main Content"
+
+msgid "plugins.themes.EpsilonTheme.accessible_menu.sidebar"
+msgstr "Sidebar"
+
+msgid "plugins.themes.EpsilonTheme.article.sidebar"
+msgstr "Article Sidebar"
+
+msgid "plugins.themes.EpsilonTheme.article.main"
+msgstr "Main Article Content"
+
+msgid "plugins.themes.EpsilonTheme.ojs.label"
+msgstr "Open Journal Systems"
+
+msgid "plugins.themes.EpsilonTheme.article.details"
+msgstr "Article Details"
+
+msgid "plugins.themes.EpsilonTheme.reset.password.txt"
+msgstr "Click here to Reset Password"
+
+msgid "plugins.themes.EpsilonTheme.reg.new-user.label"
+msgstr "Don't have an account yet?"
+
+msgid "plugins.themes.EpsilonTheme.reg.new-user.txt"
+msgstr "Click here to Register"
+
+msgid "plugins.themes.EpsilonTheme.view"
+msgstr "Abstract view"
+
+msgid "plugins.themes.EpsilonTheme.download"
+msgstr "Article download"
+
+msgid "plugins.themes.EpsilonTheme.page"
+msgstr "Page"
+
+msgid "plugins.themes.EpsilonTheme.index.by"
+msgstr "Index by:"
+
+msgid "plugins.themes.EpsilonTheme.backToTop"
+msgstr "To Top"
+
+msgid "plugins.themes.EpsilonTheme.readmore"
+msgstr "Readmore"
+
+msgid "plugins.themes.EpsilonTheme.edition"
+msgstr "Edition"
+
+msgid "plugins.themes.EpsilonTheme.issue"
+msgstr "Issue"
+
+msgid "plugins.themes.EpsilonTheme.published"
+msgstr "Published"
+
+msgid "plugins.themes.EpsilonTheme.title.n.author"
+msgstr "Title and Author(s)"
+
+msgid "plugins.themes.EpsilonTheme.publisher"
+msgstr "Published by"
+
+msgid "plugins.themes.EpsilonTheme.onlineISSN"
+msgstr "Online ISSN"
+
+msgid "plugins.themes.EpsilonTheme.printISSN"
+msgstr "Print ISSN"
+
+msgid "plugins.themes.EpsilonTheme.article-title"
+msgstr "Title and Author(s)"
+
+msgid "plugins.themes.EpsilonTheme.home"
+msgstr "Home"
+
+msgid "plugins.themes.EpsilonTheme.browse"
+msgstr "Search"
+
+msgid "plugins.themes.EpsilonTheme.category"
+msgstr "Category"
+
+msgid "plugins.themes.EpsilonTheme.submission"
+msgstr "Submission"
+
+msgid "plugins.themes.EpsilonTheme.archive"
+msgstr "Archive"
+
+msgid "plugins.themes.EpsilonTheme.table-view"
+msgstr "Table view"
+
+msgid "plugins.themes.EpsilonTheme.grid-view"
+msgstr "Grid view"
+
+msgid "plugins.themes.EpsilonTheme.registered"
+msgstr "Already Registered?"
+
+msgid "plugins.themes.EpsilonTheme.registered-message"
+msgstr "Sign in and continue your web experience using a registered account"

@@ -1,0 +1,1 @@
+<div class="bg-pattern"><div class="bg-cover"></div></div>
