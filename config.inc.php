@@ -311,14 +311,14 @@ allowed_html = "a[href|target|title],em,strong,cite,code,ul,ol,li[class],dl,dt,d
 ; smtp = On
 
 ; SMTP server settings
-; smtp_server = mail.example.com
-; smtp_port = 25
+smtp_server = mail.ijcomcel.org
+smtp_port = 587
 
 ; Enable SMTP authentication
 ; Supported mechanisms: ssl, tls
-; smtp_auth = ssl
-; smtp_username = username
-; smtp_password = password
+smtp_auth = tls
+smtp_username = jmmb@ijcomcel.org
+smtp_password = Poweranger90
 
 ; Enable suppressing verification of SMTP certificate in PHPMailer
 ; Note: this is not recommended per PHPMailer documentation
