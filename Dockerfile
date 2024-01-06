@@ -13,10 +13,11 @@ RUN apt-get update && \
         libxml2-dev \
         libzip-dev \
         unzip \
-        curl
+        curl \
+        gettext
 
 # Install PHP extensions
-RUN docker-php-ext-install mysqli pdo pdo_mysql curl gd zip bz2
+RUN docker-php-ext-install mysqli pdo pdo_mysql curl gd zip bz2 gettext
 
 # Set working directory
 WORKDIR /var/www/html
