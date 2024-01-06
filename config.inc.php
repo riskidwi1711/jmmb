@@ -129,10 +129,10 @@ sitewide_privacy_statement = Off
 [database]
 
 driver = mysqli
-host = 154.41.240.52
-username = u608281967_jmmbadmin
-password = Poweranger90
-name = u608281967_jmmb
+host = core_database
+username = root
+password = Poweranger@90
+name = jmmb
 ; Set the non-standard port and/or socket, if used
 ; port = 3306
 ; unix_socket = /var/run/mysqld/mysqld.sock
